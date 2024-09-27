@@ -1,0 +1,9 @@
+{
+  "name": "audius-tools",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@3.5.1"
+}
